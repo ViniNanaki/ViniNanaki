@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67FE9C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=30&center=true&vCenter=true&width=1000&lines=Olá+mundo!+Este+é+o+meu+GitHub;Eu+sou+Vinicius+Alves+Pedro,+tenho+22+anos;Fique+a+vontade+para+conferir+meus+projetos!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B8619&size=30&center=true&vCenter=true&width=1000&lines=Olá+mundo!+Este+é+o+meu+GitHub;Eu+sou+Vinicius+Alves+Pedro,+tenho+22+anos;Fique+a+vontade+para+conferir+meus+projetos!;)](https://git.io/typing-svg)
 
 ### _SOBRE MIM_
 
-<img src="https://media3.giphy.com/media/BWvUXvqEZgIWxIfQvN/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQ1bDBqeWF3cDV2NmFnM3F2b2FxZnF5ZHlkbHFia2R1eGVhMnpwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HW3T1wWW3z2Ff2cpXO/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right"/>
 <p>
 
-- 🧑‍💻 Apaixonado por cibersegurança, machine learning e data science <b>Artificial Intelligence</b> solutions;
+- 🧑‍💻 Apaixonado por <b>cibersegurança</b>, <b>machine learning</b> e <b>data science</b>;
 - 🎓 Recém graduado em <b>Ciência da Computação</b> pelo [<b>Centro Universitário FEI</b>](https://portal.fei.edu.br/);
 - 🌎 Possuo <b>Inglês</b> Avançado e <b>Espanhol</b> Básico;
 - 🦾 ,,_My past is not a memory. It's a force at my back. It pushes and steers. I may not always like where it leads me, but like any story, the past needs resolution. What's past is prologue._’’.
@@ -30,4 +30,4 @@
 #### Softwares:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=dynatrace&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-CC3333.svg?style=for-the-badge&logo=visualparadigm&logoColor=white)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67FE9C&height=120&section=footer"/>
